@@ -1,0 +1,18 @@
+/* WHATSAPP FIXO */
+.whatsapp-fixo {
+    position: fixed;
+    bottom:10px;
+    right:10px;
+    z-index: 999;
+
+    /*
+    margin-left: auto;
+    margin-top: 1em; */
+
+    /* padding: 5px;
+    font-size: medium;
+    float: right; */
+
+    }
+
+    /*   https://www.agenciasocialup.com.br/blog/postagem/como-inserir-um-botao-flutuante-do-whatsapp-na-loja-integrada   */
